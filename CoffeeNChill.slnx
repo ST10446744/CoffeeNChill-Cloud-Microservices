@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="docker-compose.yml" />
+  </Folder>
+  <Project Path="CoffeeNChill.Functions/CoffeeNChill.Functions.csproj" />
+  <Project Path="CoffeeNChill.Gateway/CoffeeNChill.Gateway.csproj" />
+</Solution>

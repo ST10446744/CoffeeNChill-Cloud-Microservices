@@ -1,0 +1,22 @@
+# Build files
+bin/
+obj/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Secrets and local configuration
+*.pem
+.env
+.env.*
+local.settings.json
+appsettings.Development.json
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
